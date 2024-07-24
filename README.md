@@ -1,4 +1,4 @@
-## 0x05 Javascript Bascis.
+## Javascript Bascis.
 * Functions
 * STDIN / STDOUT
 * File I/O
