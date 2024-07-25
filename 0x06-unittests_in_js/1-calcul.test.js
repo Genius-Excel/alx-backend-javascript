@@ -51,4 +51,16 @@ describe('calculateNumber', () => {
         assert.strictEqual(calculateNumber('DIVIDE', 0, 2.5), 0);
     });
 
+    it('...', () => {
+        assert.strictEqual(calculateNumber('SUM', 8.2, 3.4), 11);
+    });
+
+    it('...', () => {
+        assert.strictEqual(calculateNumber('SUBTRACT', 10, 3), -7);
+    });
+    
+    it('...', () => {
+        assert.strictEqual(calculateNumber('DIVIDE', 15, 2.5), 5);
+    });
+
 });
