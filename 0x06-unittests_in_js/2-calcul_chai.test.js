@@ -1,6 +1,6 @@
 const chai = require('chai');
 const assert = chai.assert;
-const calculateNumber = require('./2-calcul')
+const calculateNumber = require('./2-calcul_chai')
 
 
 describe('calculateNumber', () => {
