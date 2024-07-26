@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const getPaymentTokenFromApi = require('./6-token_payment')
+const getPaymentTokenFromApi = require('./6-payment_token')
 
 
 describe('getPaymentTokenFromApi', (done) => {
